@@ -9,7 +9,7 @@ public class test {
 		System.out.println("Hi, this is another test.");
 		
 		}
-	test
+
 	
 
 }
